@@ -1,4 +1,3 @@
-from ast import Import
 from pygame import mixer
 from random import randint
 import pygame
