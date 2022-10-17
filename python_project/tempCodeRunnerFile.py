@@ -1,0 +1,1 @@
+.display.set_mode((400,500))
